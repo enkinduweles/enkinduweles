@@ -11,4 +11,4 @@ Atualmente estou me dedicando a desenvolver projetos em React aprimorando minhas
 
 **Você pode me encontrar:**
 
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/enkindu-weles)
+<a href="https://linkedin.com/in/enkindu-weles" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat)</a>
