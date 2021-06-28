@@ -1,4 +1,4 @@
-# 👋Olá, eu sou o Enkindú
+# 👋Olá
 
 Atualmente estou me dedicando a desenvolver projetos em React aprimorando minhas habilidades para atuar como desenvolvedor frontend.
 
